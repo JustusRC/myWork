@@ -1,5 +1,3 @@
-package myWork;
-
 public class Executive extends Manager {
 	
 	//Justus Contreras
